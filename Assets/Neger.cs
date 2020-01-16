@@ -6,8 +6,9 @@ public class Neger : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
-    {
+    {StartCoroutine_Auto.p
 #Pizza
+
 
     }
 
