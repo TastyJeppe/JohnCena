@@ -14,6 +14,6 @@ public class Neger : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Hamburger
+         Pastaretter er ret sindssyge
     }
 }
